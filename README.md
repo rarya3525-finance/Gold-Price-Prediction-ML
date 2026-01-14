@@ -138,17 +138,6 @@ This project strengthened my understanding of how machine learning can be applie
 
 It also improved my ability to communicate technical results in a structured and professional manner, which is essential for business and research environments.
 
-🎯 Why This Project Matters for Recruiters
-
-Demonstrates end-to-end ML workflow
-
-Shows ability to work with real financial data
-
-Highlights predictive modeling skills
-
-Reflects analytical and problem-solving capability
-
-Applicable to finance, analytics, and data roles
 📌 Final Note
 
 This project represents my practical exposure to machine learning applications in finance. It showcases my ability to transform raw data into actionable insights using modern ML techniques.
