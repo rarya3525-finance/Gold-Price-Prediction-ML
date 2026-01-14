@@ -149,7 +149,6 @@ Highlights predictive modeling skills
 Reflects analytical and problem-solving capability
 
 Applicable to finance, analytics, and data roles
-
 📌 Final Note
 
 This project represents my practical exposure to machine learning applications in finance. It showcases my ability to transform raw data into actionable insights using modern ML techniques.
